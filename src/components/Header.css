@@ -1,0 +1,16 @@
+body {
+  background-color: transparent;
+}
+
+.nav-item {
+  padding: 20px;
+  position: relative;
+  display: inline;
+}
+
+.nav-container {
+
+  position: fixed;
+  top: 0;
+}
+
