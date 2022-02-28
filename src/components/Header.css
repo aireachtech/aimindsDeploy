@@ -3,14 +3,42 @@ body {
 }
 
 .nav-item {
-  padding: 20px;
+  padding: 25px;
   position: relative;
   display: inline;
 }
 
 .nav-container {
 
+  width: 100%;
   position: fixed;
   top: 0;
+  background-color: #293241;
+  height: 60px;
 }
 
+.nav-link {
+
+  text-decoration: underline solid transparent;
+  font-family: monospace;
+  font-size: 18px;
+  
+}
+.nav-link:visited {
+
+  color: white;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+
+  text-decoration: underline solid white;
+  transition: text-decoration 1s ease;
+}
+
+.nav-list-items {
+
+  margin-bottom: 0;
+  margin-top: 10px;
+
+}
