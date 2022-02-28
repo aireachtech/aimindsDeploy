@@ -20,10 +20,21 @@ function Home() {
       </header>
 
       <div className="Looking-For-Engineers">
-      <div className="Looking-For-Engineers-Top"></div>
+        <div className="Looking-For-Engineers-Top"></div>
           <h1>Looking for First-Class ML Engineers?</h1>
+        </div>
+
+      <div className="We-Are-Here">
+        <div className="left-here"></div>
+        <div className="right-here">
+          <div className="right-right-here">
+            
+          </div>
+        </div>
       </div>
-    </div>
+
+      </div>
+    
   );
 }
 

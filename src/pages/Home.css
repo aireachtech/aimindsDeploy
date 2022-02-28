@@ -100,3 +100,36 @@
   height: 30px;
   width: 90px;
 }
+
+.We-Are-Here {
+
+  width: 100%;
+  height: 400px;
+  display: inline-flex;
+  background-color: #e0fbfc;
+}
+
+.left-here {
+
+  width: 35%;
+  height: 100%;
+  background-color: #293241 ;
+
+}
+
+.right-here {
+
+  width: 65%;
+  height: 100%;
+  background-color: #98c1d9;
+
+}
+
+.right-right-here {
+
+  width: 35%;
+  height: 80%;
+  background-color: blue;
+
+
+}
