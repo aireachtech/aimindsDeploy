@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aimindsDeploy/static/css/main.66ecc941.css",
+    "main.js": "/aimindsDeploy/static/js/main.98c77dca.js",
+    "static/media/cover-left.jpg": "/aimindsDeploy/static/media/cover-left.a896df6814070853e2f8.jpg",
+    "static/media/help.jpg": "/aimindsDeploy/static/media/help.7b2283cb6c133d9b2c8d.jpg",
+    "index.html": "/aimindsDeploy/index.html",
+    "main.66ecc941.css.map": "/aimindsDeploy/static/css/main.66ecc941.css.map",
+    "main.98c77dca.js.map": "/aimindsDeploy/static/js/main.98c77dca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ecc941.css",
+    "static/js/main.98c77dca.js"
+  ]
+}
